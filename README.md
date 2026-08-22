@@ -1,1 +1,1 @@
-Aula de introduçao a linguagem **C**
+Aulas de introduçao a linguagem **C**
