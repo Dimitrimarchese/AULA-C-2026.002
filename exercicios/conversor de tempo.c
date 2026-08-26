@@ -23,37 +23,4 @@ int main() {
     printf("semanas: %lld", dias);
     printf("semanas: %lld", horas);
     printf("semanas: %lld", minutos);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
