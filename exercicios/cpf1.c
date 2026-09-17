@@ -1,14 +1,3 @@
-    //cpf: 280.012.389
-    //primeiro digito: 10x2 + 9x8 + 0 + 0 6x1 + 5x2 + 4x3 + 3x8 + 2x9
-    //soma: 162/11 = 14,7 -> resto 8
-    //1 digito: 11 - 8 = 3
-    //cpf: 280.012.389-3*
-
-    //seg numero
-    //cpf: 280.012.389-3* -> com primeiro numero
-    //cpf do seg numer: 80.012.389-3 = 8x10 + 0 + 0 + 7x1 + 6x2 + 5x3 + 4x8 + 3x9 + 2x3
-    // 179/11 = 16,27 -> resto 3; 11-3 = 8
-
     #include <stdio.h>
     int main(){
         int d1,d2,d3,d4,d5,d6,d7,d8,d9;
